@@ -29,6 +29,6 @@ def dinner(fish="salmon")
   "the night time is the best time for #{fish}!"
 end
 
-puts breakfast
+puts breakfast "scrambled eggs"
 puts lunch
 puts dinner
